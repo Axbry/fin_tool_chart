@@ -1,0 +1,4 @@
+producer/venv/*
+consumer/venv/*
+front/node_modules/*
+web-server/venv/*

@@ -1,0 +1,6 @@
+fastapi[all]
+fastapi_utils
+python-dateutil
+sse_starlette
+redistimeseries
+uvicorn
