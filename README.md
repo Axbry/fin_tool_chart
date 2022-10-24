@@ -4,4 +4,4 @@ To start the app run in terminal:
 - npm install
 - npm run serve
 
-Open in browser http:localhost:8080
+Open in browser http://localhost:8080
